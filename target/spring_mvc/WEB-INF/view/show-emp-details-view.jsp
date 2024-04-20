@@ -16,6 +16,13 @@
 <br>
 <br>
 <br>
-Yor name: ${nameAttribute}
+Yor name: ${employee.name}
+<br>
+Yous surname : ${employee.surname}
+<br>
+Yous salary : ${employee.salary}
+<br>
+<br>
+Yor department: ${employee.department}
 </body>
 </html>
